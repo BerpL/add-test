@@ -10,6 +10,8 @@
   },
   "private": true,
   "dependencies": {
+    "@alicorpdigital/dali-components-angular": "^1.3.0",
+    "@alicorpdigital/dali-css-library": "^1.16.1",
     "@angular/animations": "^15.1.0",
     "@angular/common": "^15.1.0",
     "@angular/compiler": "^15.1.0",
@@ -18,6 +20,8 @@
     "@angular/platform-browser": "^15.1.0",
     "@angular/platform-browser-dynamic": "^15.1.0",
     "@angular/router": "^15.1.0",
+    "@azure/msal-angular": "^2.5.3",
+    "@azure/msal-browser": "^2.33.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
